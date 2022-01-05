@@ -1,0 +1,22 @@
+Astronaut data:
+Name: string
+Year: Int
+Group: Int
+Status: String
+Birth Date: Date
+Birth Place: String, state and city seperated by ,
+Gender: String
+Alma Mater: String
+	Multiple in Alma Mater seperated by ;
+Undergraduate Major: String
+	Multiple in Undergraduate Major seperated by &
+Graduate Major: String
+	Multiple in Graduate Major seperated by ;
+Military Rank: String
+Military Branch: string, "retired" in ()
+Space Flight: Int
+Space Flight (hr): Int
+Space Walks: Int
+Space Walks (hr) Int
+Missioins: string
+	Multiple in Missions seperated by ,
